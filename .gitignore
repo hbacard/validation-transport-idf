@@ -133,3 +133,4 @@ dmypy.json
 .vscode/
 data/
 locenv/
+.venv/
